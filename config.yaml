@@ -1,0 +1,23 @@
+baseURL: https://ethical-capitalism.org
+languageCode: en-us
+title: Ethical Capitalism
+theme: "PaperMod"
+
+params:
+  env: production
+
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16:  "/favicon-16x16.png"
+    favicon32x32:  "/favicon-32x32.png"
+    apple_touch_icon:  "/apple-touch-icon.png"
+#    safari_pinned_tab:  "/safari-pinned-tab.svg"
+
+defaultContentLanguage: en
+languages:
+  en:
+    contentDir: content/american_english
+    languageName: English
+    weight: 1
+
+    title: Ethical Capitalism
